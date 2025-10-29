@@ -1,0 +1,10 @@
+//
+//  Config.xcconfig
+//  Project
+//
+//  Created by VnPaz on 3/12/25.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+supbaseKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVtamJha3Z2ZWxkYmlzdnRwY3dmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDE3NjY0MzAsImV4cCI6MjA1NzM0MjQzMH0.8NEjpl_qB8rXNzUdyCKoGFcqaFOY6qTUsJ1MRrqcz2s
